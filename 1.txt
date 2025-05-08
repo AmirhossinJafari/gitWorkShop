@@ -1,2 +1,3 @@
 this is 1.txt ^_^
 hello
+manam
